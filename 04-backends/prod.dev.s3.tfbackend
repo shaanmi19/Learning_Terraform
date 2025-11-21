@@ -1,0 +1,4 @@
+    bucket = "fictional-terraform-buckeet"
+    key = "04-backend/prod/state.tfstate"
+    region = "us-east-1"
+    #dynamodb_table = "fictional-terraform-dynamodb-table" 
